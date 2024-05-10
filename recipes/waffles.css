@@ -1,0 +1,28 @@
+body {
+    font-family: "Times New Roman";
+}
+
+.head {
+    text-align: center;
+}
+
+.head .title {
+    background-color: orange;
+}
+
+.head .image {
+    width: 600px;
+    height: auto;
+}
+
+.header {
+    font-size: 24px;
+    color: black;
+    font-weight: bold;
+    background-color: orange;
+    text-align: center;
+}
+
+.content {
+    font-size: 18px;
+}
