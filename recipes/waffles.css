@@ -8,11 +8,16 @@ body {
 
 .head .title {
     background-color: orange;
+    padding: 10px;
+    margin: 20px;
+    border-radius: 10px;
 }
 
 .head .image {
-    width: 600px;
-    height: auto;
+    height: 500px;
+    width: 742px;
+    border-radius: 10px;
+    border: 5px solid orange;
 }
 
 .header {
@@ -21,8 +26,31 @@ body {
     font-weight: bold;
     background-color: orange;
     text-align: center;
+    margin: 0;
+    padding: 10px;
 }
 
 .content {
     font-size: 18px;
+    margin: 20px;
 }
+
+.desc {
+    border: 5px solid orange;
+    border-radius: 10px;
+    margin: 20px;
+}
+
+.ingredients {
+    border: 5px solid orange;
+    border-radius: 10px;
+    margin: 20px;
+}
+
+
+.steps {
+    border: 5px solid orange;
+    border-radius: 10px;
+    margin: 20px;
+}
+
